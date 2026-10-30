@@ -1,4 +1,4 @@
-# Monolithic Architecture (monolithic-architecture)
+# Monolithic Architecture
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,29 +66,26 @@
 
 Monolithic Architecture is a software design approach in which an application is built as a single, unified unit where all components, business logic, data access, and user interface are tightly coupled and deployed together. It contrasts with microservices and service-oriented architectures and remains a common starting point for many systems.
 
-## Scope
+**Areas:** Architecture · Design Patterns · Monolithic Architecture · Software Architecture
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## Monolithic Architecture on APIs.io
 
-## Tags
+Everything profiled for Monolithic Architecture is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/monolithic-architecture/](https://apis.io/providers/monolithic-architecture/)** — or go straight to one of the APIs or properties below.
 
-- Architecture
-- Design Patterns
-- Monolithic Architecture
-- Software Architecture
+## API Evangelist rating
 
-## Timestamps
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-- **Created:** 2025
-- **Modified:** 2026-04-28
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## APIs
+## How this profile is made
 
-This index tracks reference materials, patterns, and resources related to monolithic architecture. No specific APIs are catalogued here as the topic is conceptual.
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Maintainers
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Monolithic Architecture: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **FN:** Kin Lane
-- **Email:** kin@apievangelist.com
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/monolithic-architecture/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
